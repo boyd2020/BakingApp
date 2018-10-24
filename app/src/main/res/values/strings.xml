@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BakingApp</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="instructions">Instructions</string>
+    <string name="finish">Finish</string>
+    <string name="next">NEXT</string>
+    <string name="back">BACK</string>
+
+    <!-- Ingredient Strings -->
+    <string name="ingredient_name">&#8226; %1$s - %2$d %3$s</string>
+    <string name="recipe_servings">Servings: %1$d</string>
+    <string name="video_not_found">Video Not Found</string>
+    <string name="ingredients_not_found">Ingredients Not Found</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="recipe_steps">%1$s - Steps</string>
+
+    <!-- Empty Text Strings -->
+    <string name="data_not_found">No Data Found</string>
+    <string name="no_connection">No Internet Connection</string>
+
+</resources>

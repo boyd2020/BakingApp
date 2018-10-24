@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Default Dimensions -->
+    <dimen name="default_padding">16dp</dimen>
+    <dimen name="default_margin">16dp</dimen>
+    <dimen name="default_image_size">80dp</dimen>
+    <dimen name="default_widget_image_size">30dp</dimen>
+
+    <!-- Info Card Dimensions -->
+    <dimen name="ingredient_image_size">40dp</dimen>
+    <dimen name="info_text_margin">10dp</dimen>
+
+    <!--
+Refer to App Widget Documentation for margin information
+http://developer.android.com/guide/topics/appwidgets/index.html#CreatingLayout
+    -->
+    <dimen name="widget_margin">8dp</dimen>
+
+</resources>
